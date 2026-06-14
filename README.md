@@ -1,43 +1,53 @@
-Hi, I'm Tanvir Islam Tamim 👋
-🚀 MERN Stack Developer | Passionate about Scalable Web Solutions
-I am a dedicated MERN Stack Developer based in Bangladesh, passionate about crafting clean, fast, and secure web applications. I love turning complex ideas into intuitive, interactive, and high-performance digital experiences.
+# Hi, I'm Tanvir Islam Tamim 👋
 
-🛠 Tech Stack & Tools
-Languages: JavaScript (ES6+), HTML5, CSS3
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=tanvirislamtamim&label=Profile%20Views&color=0e75b6&style=flat" alt="tanvirislamtamim" />
+</p>
 
-Frontend: React.js, Next.js, Tailwind CSS
+### 🚀 MERN Stack Developer | Passionate about Scalable Web Solutions
 
-Backend: Node.js, Express.js
+I am a dedicated **MERN Stack Developer** based in Bangladesh, passionate about crafting clean, fast, and secure web applications. I love turning complex ideas into intuitive, interactive, and high-performance digital experiences.
 
-Databases: MongoDB
+---
 
-Tools: Git, GitHub, VS Code, Postman, Netlify
+### 🛠 Tech Stack & Tools
 
-👨‍💻 About Me
-Current Focus: Building scalable, secure, and user-centric web applications.
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
 
-Education: Currently pursuing a Diploma in Computer Science & Technology (2024-2027).
+---
 
-Availability: Open for remote opportunities and collaborative projects.
+### 👨‍💻 About Me
 
-Core Philosophy: I believe in writing clean, maintainable code and following industry best practices to ensure long-term project success.
+* 🎓 **Education:** Currently pursuing a Diploma in Computer Science & Technology (2024-2027).
+* 💼 **Focus:** Building scalable, secure, and user-centric web applications.
+* 🌍 **Availability:** Open for remote opportunities and collaborative projects.
+* ⚡ **Core Philosophy:** I believe in writing clean, maintainable code and following industry best practices.
 
-🎯 Featured Project
-Aro Ekdin
+---
 
-What is it? A comprehensive volleyball tournament management platform.
+### 🎯 Featured Project
 
-Key Features: Real-time chat, automated match scheduling, dynamic playoff brackets, and real-time team standings.
+**[Aro Ekdin](https://aro-ekdin.surge.sh/)**
+> A comprehensive volleyball tournament management platform featuring real-time chat, automated match scheduling, dynamic playoff brackets, and real-time team standings.
+> 
+> * **Tech Stack:** Next.js 15, React 19, Node.js, Express.js, MongoDB, Socket.io, Tailwind CSS.
+> * [🔗 View Repository](https://github.com/tanvirislamtamim/aro-ekdin)
 
-Tech Stack: Next.js 15, React 19, Node.js, Express.js, MongoDB, Socket.io, Tailwind CSS.
+---
 
-Link: GitHub Repository
+### 🌐 Let’s Connect
 
-🌐 Let’s Connect
-Portfolio: tanvir-islam-tamim-portfolio.netlify.app
+<p align="left">
+  <a href="mailto:ti414815@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://tanvir-islam-tamim-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+</p>
 
-Email: ti414815@gmail.com
-
-Phone: +880 1742-582808
-
-Location: Faridpur, Dhaka, Bangladesh
+---
+*“Crafting scalable MERN stack web applications one line at a time.”*
